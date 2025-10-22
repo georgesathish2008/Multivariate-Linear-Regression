@@ -9,16 +9,16 @@ To write a python program to implement multivariate linear regression and predic
 <br>
 
 ### Step2
-<br>
+<br>1.Import necessary libraries (e.g., NumPy, Pandas, Scikit-learn) 2.Load your dataset into a Pandas DataFrame
 
 ### Step3
-<br>
+<br>1.Handle missing values (e.g., imputation, removal) 2.Scale/normalize features (e.g., StandardScaler)
 
 ### Step4
-<br>
+<br>1.Split data into training (~70-80%) and testing sets (~20-30%) 2.Create a Multivariate Linear Regression model (e.g., Scikit-learn's LinearRegression)
 
 ### Step5
-<br>
+<br>1.Refine the model by tuning hyperparameters or feature engineering 2.Deploy the final model in your desired application or platform
 
 ## Program:
 
